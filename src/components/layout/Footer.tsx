@@ -9,7 +9,7 @@ export default function Footer() {
                     <Link href="/" className="font-serif text-3xl font-semibold tracking-wide block mb-4">GLOCASA.</Link>
                     <p className="text-gray-400 text-sm leading-relaxed mb-6">Elevate your kitchen with premium, food-safe glass storage and accessories designed for the modern home.</p>
                     <div className="flex gap-4">
-                        <a href="#" className="text-gray-400 hover:text-white transition-colors"><Instagram size={20} /></a>
+                        <a href="https://www.instagram.com/glocasa_glass/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors"><Instagram size={20} /></a>
                         <a href="#" className="text-gray-400 hover:text-white transition-colors"><Facebook size={20} /></a>
                         <a href="#" className="text-gray-400 hover:text-white transition-colors"><Twitter size={20} /></a>
                     </div>
