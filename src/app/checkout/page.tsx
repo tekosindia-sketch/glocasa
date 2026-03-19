@@ -228,11 +228,11 @@ export default function CheckoutPage() {
                     <div className="mt-5 p-5 bg-white border border-divider space-y-3">
                         <div className="flex items-center gap-3 text-xs text-text-light">
                             <Truck size={16} className="text-[#C9A84C] shrink-0" />
-                            <span>Free shipping on orders above ₹999</span>
+                            <span>Easy shipping on orders above ₹999</span>
                         </div>
                         <div className="flex items-center gap-3 text-xs text-text-light">
                             <ShieldCheck size={16} className="text-[#C9A84C] shrink-0" />
-                            <span>30-day easy returns & refunds</span>
+                            <span>10-day easy returns & refunds</span>
                         </div>
                         <div className="flex items-center gap-3 text-xs text-text-light">
                             <Lock size={16} className="text-[#C9A84C] shrink-0" />

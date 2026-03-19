@@ -14,7 +14,7 @@ export default function FinalCTA() {
                 className={`max-w-3xl mx-auto reveal ${isIntersecting ? 'active' : ''}`}
             >
                 <h2 className="font-serif text-4xl md:text-6xl leading-tight mb-6">Upgrade Your Kitchen<br />With Glass.</h2>
-                <p className="text-white/70 text-lg mb-12 max-w-xl mx-auto font-light leading-relaxed">Join thousands of modern homes making the switch to premium, food-safe glass storage. Free shipping on your first order.</p>
+                <p className="text-white/70 text-lg mb-12 max-w-xl mx-auto font-light leading-relaxed">Join thousands of modern homes making the switch to premium, food-safe glass storage. Easy shipping on your first order.</p>
 
                 <Link
                     href="/products"

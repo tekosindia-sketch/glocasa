@@ -86,10 +86,10 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                     {/* Trust Bar */}
                     <div className="grid grid-cols-2 gap-3 mb-9">
                         <div className="flex items-center gap-2.5 text-[13px] text-text-main bg-white border border-divider px-4 py-3">
-                            <Truck className="text-[#C9A84C] shrink-0" size={18} /> Free Shipping
+                            <Truck className="text-[#C9A84C] shrink-0" size={18} /> Easy Shipping
                         </div>
                         <div className="flex items-center gap-2.5 text-[13px] text-text-main bg-white border border-divider px-4 py-3">
-                            <ShieldCheck className="text-[#C9A84C] shrink-0" size={18} /> 30-Day Returns
+                            <ShieldCheck className="text-[#C9A84C] shrink-0" size={18} /> 10-Day Returns
                         </div>
                     </div>
 
